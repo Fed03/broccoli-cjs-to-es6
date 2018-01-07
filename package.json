@@ -1,6 +1,6 @@
 {
   "name": "broccoli-cjs-to-es6",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A broccoli plugin that uses browserify to transform cjs module to es6",
   "main": "index.js",
   "repository": "https://github.com/Fed03/broccoli-cjs-to-es6",
